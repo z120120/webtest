@@ -1,0 +1,1 @@
+learn gif|png|jpg|woff|svg|eot|ttf;
