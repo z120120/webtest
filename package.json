@@ -1,0 +1,27 @@
+{
+  "name": "webtest",
+  "version": "1.0.0",
+  "description": "niya test",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z120120/webtest.git"
+  },
+  "keywords": [
+    "webpack",
+    "git"
+  ],
+  "author": "niya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z120120/webtest/issues"
+  },
+  "homepage": "https://github.com/z120120/webtest#readme"
+}
